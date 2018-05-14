@@ -1,0 +1,29 @@
+{
+  "name": "webpack-mix-precache-pwa",
+  "version": "1.0.0",
+  "description": "Generates a service worker boiler plate for laravel using mix configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/risha700/webpack-mix-precache-pwa.git"
+  },
+  "keywords": [
+    "laravel",
+    "mix",
+    "service",
+    "worker",
+    "swprecache",
+    "plugin",
+    "boiler",
+    "plate"
+  ],
+  "author": "Ahmed Risha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/risha700/webpack-mix-precache-pwa/issues"
+  },
+  "homepage": "https://github.com/risha700/webpack-mix-precache-pwa#readme"
+}
